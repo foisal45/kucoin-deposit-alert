@@ -2372,7 +2372,7 @@
   "EGLD:egld": {
     "coin": "EGLD",
     "network": "EGLD",
-    "enabled": true
+    "enabled": false
   },
   "FLOW:flow": {
     "coin": "FLOW",
