@@ -26,8 +26,7 @@ def get_kucoin_status():
 
     for coin in data.get("data", []):
         currency = coin.get("currency")
-
-        for chain in coin.get("chains", []):
+for chain in (coin.get("chains") or []):
             chain_id = chain.get("chainId") or chain.get("chainName")
 
             if not currency or not chain_id:
