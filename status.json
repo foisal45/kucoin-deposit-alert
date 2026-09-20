@@ -22,7 +22,7 @@
   "FET:eth": {
     "coin": "FET",
     "network": "ERC20",
-    "enabled": true
+    "enabled": false
   },
   "XMR:xmr": {
     "coin": "XMR",
@@ -7437,7 +7437,7 @@
   "WMTX:eth": {
     "coin": "WMTX",
     "network": "ERC20",
-    "enabled": true
+    "enabled": false
   },
   "PUFFER:eth": {
     "coin": "PUFFER",
