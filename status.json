@@ -2172,7 +2172,7 @@
   "GALAX:eth": {
     "coin": "GALAX",
     "network": "ERC20",
-    "enabled": true
+    "enabled": false
   },
   "CIRUS:eth": {
     "coin": "CIRUS",
@@ -4947,7 +4947,7 @@
   "WAXL:eth": {
     "coin": "WAXL",
     "network": "ERC20",
-    "enabled": true
+    "enabled": false
   },
   "SSV:eth": {
     "coin": "SSV",
@@ -11067,7 +11067,7 @@
   "BCHSV:bchsv": {
     "coin": "BCHSV",
     "network": "BCHSV",
-    "enabled": true
+    "enabled": false
   },
   "BCPT:eth": {
     "coin": "BCPT",
