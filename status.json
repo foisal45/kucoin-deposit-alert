@@ -2199,8 +2199,8 @@
     "network": "ERC20",
     "enabled": false
   },
-  "PNT:eth": {
-    "coin": "PNT",
+  "PNTOLD:eth": {
+    "coin": "PNTOLD",
     "network": "ERC20",
     "enabled": false
   },
@@ -3477,7 +3477,7 @@
   "IOTA:iotamainnet": {
     "coin": "IOTA",
     "network": "IOTA",
-    "enabled": false
+    "enabled": true
   },
   "CWEB:eth": {
     "coin": "CWEB",
@@ -4944,8 +4944,8 @@
     "network": "ERC20",
     "enabled": true
   },
-  "WAXL:eth": {
-    "coin": "WAXL",
+  "AXL:eth": {
+    "coin": "AXL",
     "network": "ERC20",
     "enabled": false
   },
@@ -11064,8 +11064,8 @@
     "network": "BCHABC",
     "enabled": false
   },
-  "BCHSV:bchsv": {
-    "coin": "BCHSV",
+  "BSV:bchsv": {
+    "coin": "BSV",
     "network": "BCHSV",
     "enabled": false
   },
