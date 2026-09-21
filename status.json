@@ -137,7 +137,7 @@
   "ATOM:atom": {
     "coin": "ATOM",
     "network": "ATOM",
-    "enabled": false
+    "enabled": true
   },
   "CHR:eth": {
     "coin": "CHR",
@@ -372,7 +372,7 @@
   "LUNA:terra": {
     "coin": "LUNA",
     "network": "TERRA",
-    "enabled": true
+    "enabled": false
   },
   "SDT:eth": {
     "coin": "SDT",
@@ -9792,7 +9792,7 @@
   "VFY:zkverify": {
     "coin": "VFY",
     "network": "Zkverify",
-    "enabled": true
+    "enabled": false
   },
   "BSU:bsc": {
     "coin": "BSU",
