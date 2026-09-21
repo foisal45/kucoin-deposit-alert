@@ -137,7 +137,7 @@
   "ATOM:atom": {
     "coin": "ATOM",
     "network": "ATOM",
-    "enabled": true
+    "enabled": false
   },
   "CHR:eth": {
     "coin": "CHR",
@@ -1717,7 +1717,7 @@
   "PYR:eth": {
     "coin": "PYR",
     "network": "ERC20",
-    "enabled": true
+    "enabled": false
   },
   "GLCH:eth": {
     "coin": "GLCH",
@@ -2169,8 +2169,8 @@
     "network": "Metal L2",
     "enabled": true
   },
-  "GALAX:eth": {
-    "coin": "GALAX",
+  "GALA:eth": {
+    "coin": "GALA",
     "network": "ERC20",
     "enabled": false
   },
@@ -10792,7 +10792,7 @@
   "ANTFUN:sol": {
     "coin": "ANTFUN",
     "network": "SOL",
-    "enabled": true
+    "enabled": false
   },
   "CARDS:sol": {
     "coin": "CARDS",
@@ -10842,7 +10842,7 @@
   "AIR:bsc": {
     "coin": "AIR",
     "network": "BEP20",
-    "enabled": true
+    "enabled": false
   },
   "DOS:eth": {
     "coin": "DOS",
