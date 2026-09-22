@@ -372,7 +372,7 @@
   "LUNA:terra": {
     "coin": "LUNA",
     "network": "TERRA",
-    "enabled": false
+    "enabled": true
   },
   "SDT:eth": {
     "coin": "SDT",
@@ -9792,7 +9792,7 @@
   "VFY:zkverify": {
     "coin": "VFY",
     "network": "Zkverify",
-    "enabled": false
+    "enabled": true
   },
   "BSU:bsc": {
     "coin": "BSU",
