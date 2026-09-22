@@ -137,7 +137,7 @@
   "ATOM:atom": {
     "coin": "ATOM",
     "network": "ATOM",
-    "enabled": true
+    "enabled": false
   },
   "CHR:eth": {
     "coin": "CHR",
@@ -1242,12 +1242,12 @@
   "AVAX:avax": {
     "coin": "AVAX",
     "network": "AVAX",
-    "enabled": true
+    "enabled": false
   },
   "AVAX:avaxc": {
     "coin": "AVAX",
     "network": "AVAX C-Chain",
-    "enabled": true
+    "enabled": false
   },
   "DON:iost": {
     "coin": "DON",
@@ -1887,7 +1887,7 @@
   "XAVA:avaxc": {
     "coin": "XAVA",
     "network": "AVAX C-Chain",
-    "enabled": true
+    "enabled": false
   },
   "AIOLD:eth": {
     "coin": "AIOLD",
@@ -2182,7 +2182,7 @@
   "QI:avaxc": {
     "coin": "QI",
     "network": "AVAX C-Chain",
-    "enabled": true
+    "enabled": false
   },
   "ODDZ:bsc": {
     "coin": "ODDZ",
@@ -4612,7 +4612,7 @@
   "GMX:avaxc": {
     "coin": "GMX",
     "network": "AVAX C-Chain",
-    "enabled": true
+    "enabled": false
   },
   "GMX:arbitrum": {
     "coin": "GMX",
@@ -6182,7 +6182,7 @@
   "COQ:avaxc": {
     "coin": "COQ",
     "network": "AVAX C-Chain",
-    "enabled": true
+    "enabled": false
   },
   "SOLS:sol": {
     "coin": "SOLS",
@@ -8807,7 +8807,7 @@
   "NXPC:avaxc": {
     "coin": "NXPC",
     "network": "AVAX C-Chain",
-    "enabled": true
+    "enabled": false
   },
   "PRAI:bsc": {
     "coin": "PRAI",
@@ -9707,7 +9707,7 @@
   "COLS:avaxc": {
     "coin": "COLS",
     "network": "AVAX C-Chain",
-    "enabled": true
+    "enabled": false
   },
   "XL1:eth": {
     "coin": "XL1",
@@ -10732,7 +10732,7 @@
   "YOM:avaxc": {
     "coin": "YOM",
     "network": "AVAX C-Chain",
-    "enabled": true
+    "enabled": false
   },
   "KONET:konet": {
     "coin": "KONET",
@@ -10961,6 +10961,16 @@
   },
   "AAPLX:sol": {
     "coin": "AAPLX",
+    "network": "SOL",
+    "enabled": false
+  },
+  "SPCXX:sol": {
+    "coin": "SPCXX",
+    "network": "SOL",
+    "enabled": false
+  },
+  "HOODX:sol": {
+    "coin": "HOODX",
     "network": "SOL",
     "enabled": false
   },
@@ -12152,7 +12162,7 @@
   "USDC:avaxc": {
     "coin": "USDC",
     "network": "AVAX C-Chain",
-    "enabled": true
+    "enabled": false
   },
   "USDC:monad": {
     "coin": "USDC",
@@ -12247,7 +12257,7 @@
   "USDT:avaxc": {
     "coin": "USDT",
     "network": "AVAX C-Chain",
-    "enabled": true
+    "enabled": false
   },
   "USDT:near": {
     "coin": "USDT",
