@@ -779,11 +779,6 @@
     "network": "ERC20",
     "enabled": false
   },
-  "UOS:uos": {
-    "coin": "UOS",
-    "network": "UOS",
-    "enabled": false
-  },
   "UOS:eth": {
     "coin": "UOS",
     "network": "ERC20",
@@ -2172,7 +2167,7 @@
   "GALA:eth": {
     "coin": "GALA",
     "network": "ERC20",
-    "enabled": false
+    "enabled": true
   },
   "CIRUS:eth": {
     "coin": "CIRUS",
@@ -4947,7 +4942,7 @@
   "AXL:eth": {
     "coin": "AXL",
     "network": "ERC20",
-    "enabled": false
+    "enabled": true
   },
   "SSV:eth": {
     "coin": "SSV",
@@ -10964,6 +10959,11 @@
     "network": "ERC20",
     "enabled": true
   },
+  "AAPLX:sol": {
+    "coin": "AAPLX",
+    "network": "SOL",
+    "enabled": false
+  },
   "VSYS:vsys": {
     "coin": "VSYS",
     "network": "VSYS",
@@ -11067,7 +11067,7 @@
   "BSV:bchsv": {
     "coin": "BSV",
     "network": "BCHSV",
-    "enabled": false
+    "enabled": true
   },
   "BCPT:eth": {
     "coin": "BCPT",
