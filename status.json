@@ -10322,7 +10322,7 @@
   "FOGO:fogo": {
     "coin": "FOGO",
     "network": "FOGO",
-    "enabled": false
+    "enabled": true
   },
   "FUN:base": {
     "coin": "FUN",
