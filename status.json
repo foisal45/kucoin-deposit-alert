@@ -6847,7 +6847,7 @@
   "RIO:bsc": {
     "coin": "RIO",
     "network": "BEP20",
-    "enabled": false
+    "enabled": true
   },
   "ZERO:linea": {
     "coin": "ZERO",
@@ -7967,7 +7967,7 @@
   "ISLAND:eth": {
     "coin": "ISLAND",
     "network": "ERC20",
-    "enabled": true
+    "enabled": false
   },
   "PENGU:sol": {
     "coin": "PENGU",
@@ -9302,7 +9302,7 @@
   "MSTRX:sol": {
     "coin": "MSTRX",
     "network": "SOL",
-    "enabled": false
+    "enabled": true
   },
   "NVDAX:sol": {
     "coin": "NVDAX",
@@ -10962,17 +10962,17 @@
   "AAPLX:sol": {
     "coin": "AAPLX",
     "network": "SOL",
-    "enabled": false
+    "enabled": true
   },
   "SPCXX:sol": {
     "coin": "SPCXX",
     "network": "SOL",
-    "enabled": false
+    "enabled": true
   },
   "HOODX:sol": {
     "coin": "HOODX",
     "network": "SOL",
-    "enabled": false
+    "enabled": true
   },
   "VSYS:vsys": {
     "coin": "VSYS",
