@@ -1242,12 +1242,12 @@
   "AVAX:avax": {
     "coin": "AVAX",
     "network": "AVAX",
-    "enabled": false
+    "enabled": true
   },
   "AVAX:avaxc": {
     "coin": "AVAX",
     "network": "AVAX C-Chain",
-    "enabled": false
+    "enabled": true
   },
   "DON:iost": {
     "coin": "DON",
@@ -1887,7 +1887,7 @@
   "XAVA:avaxc": {
     "coin": "XAVA",
     "network": "AVAX C-Chain",
-    "enabled": false
+    "enabled": true
   },
   "AIOLD:eth": {
     "coin": "AIOLD",
@@ -2182,7 +2182,7 @@
   "QI:avaxc": {
     "coin": "QI",
     "network": "AVAX C-Chain",
-    "enabled": false
+    "enabled": true
   },
   "ODDZ:bsc": {
     "coin": "ODDZ",
@@ -2557,7 +2557,7 @@
   "RUNE:rune": {
     "coin": "RUNE",
     "network": "RUNE",
-    "enabled": false
+    "enabled": true
   },
   "MATTER:eth": {
     "coin": "MATTER",
@@ -4162,7 +4162,7 @@
   "MBL:ont": {
     "coin": "MBL",
     "network": "ONT",
-    "enabled": false
+    "enabled": true
   },
   "DUSK:eth": {
     "coin": "DUSK",
@@ -4612,7 +4612,7 @@
   "GMX:avaxc": {
     "coin": "GMX",
     "network": "AVAX C-Chain",
-    "enabled": false
+    "enabled": true
   },
   "GMX:arbitrum": {
     "coin": "GMX",
@@ -6182,7 +6182,7 @@
   "COQ:avaxc": {
     "coin": "COQ",
     "network": "AVAX C-Chain",
-    "enabled": false
+    "enabled": true
   },
   "SOLS:sol": {
     "coin": "SOLS",
@@ -8757,7 +8757,7 @@
   "B2:bsc": {
     "coin": "B2",
     "network": "BEP20",
-    "enabled": false
+    "enabled": true
   },
   "GORK:sol": {
     "coin": "GORK",
@@ -8807,7 +8807,7 @@
   "NXPC:avaxc": {
     "coin": "NXPC",
     "network": "AVAX C-Chain",
-    "enabled": false
+    "enabled": true
   },
   "PRAI:bsc": {
     "coin": "PRAI",
@@ -9707,7 +9707,7 @@
   "COLS:avaxc": {
     "coin": "COLS",
     "network": "AVAX C-Chain",
-    "enabled": false
+    "enabled": true
   },
   "XL1:eth": {
     "coin": "XL1",
@@ -10487,7 +10487,7 @@
   "MANTRA:mantra": {
     "coin": "MANTRA",
     "network": "Mantra",
-    "enabled": false
+    "enabled": true
   },
   "NEXI:eth": {
     "coin": "NEXI",
@@ -10732,7 +10732,7 @@
   "YOM:avaxc": {
     "coin": "YOM",
     "network": "AVAX C-Chain",
-    "enabled": false
+    "enabled": true
   },
   "KONET:konet": {
     "coin": "KONET",
@@ -11802,7 +11802,7 @@
   "ONT:ont": {
     "coin": "ONT",
     "network": "ONT",
-    "enabled": false
+    "enabled": true
   },
   "OPENPLAT:eth": {
     "coin": "OPENPLAT",
@@ -12162,7 +12162,7 @@
   "USDC:avaxc": {
     "coin": "USDC",
     "network": "AVAX C-Chain",
-    "enabled": false
+    "enabled": true
   },
   "USDC:monad": {
     "coin": "USDC",
@@ -12257,7 +12257,7 @@
   "USDT:avaxc": {
     "coin": "USDT",
     "network": "AVAX C-Chain",
-    "enabled": false
+    "enabled": true
   },
   "USDT:near": {
     "coin": "USDT",
