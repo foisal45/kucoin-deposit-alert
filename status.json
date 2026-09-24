@@ -6327,7 +6327,7 @@
   "MANTA:manta": {
     "coin": "MANTA",
     "network": "Manta",
-    "enabled": true
+    "enabled": false
   },
   "ORCA:sol": {
     "coin": "ORCA",
@@ -10207,7 +10207,7 @@
   "ZIG:zigchain": {
     "coin": "ZIG",
     "network": "Zigchain",
-    "enabled": true
+    "enabled": false
   },
   "UDS:eth": {
     "coin": "UDS",
@@ -10977,7 +10977,7 @@
   "VSYS:vsys": {
     "coin": "VSYS",
     "network": "VSYS",
-    "enabled": true
+    "enabled": false
   },
   "ABT:eth": {
     "coin": "ABT",
