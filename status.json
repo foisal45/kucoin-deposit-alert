@@ -27,7 +27,7 @@
   "XMR:xmr": {
     "coin": "XMR",
     "network": "XMR",
-    "enabled": false
+    "enabled": true
   },
   "RBTC:rbtc": {
     "coin": "RBTC",
@@ -7747,7 +7747,7 @@
   "VERONA:xion": {
     "coin": "VERONA",
     "network": "Verona",
-    "enabled": false
+    "enabled": true
   },
   "VIRTUAL:base": {
     "coin": "VIRTUAL",
