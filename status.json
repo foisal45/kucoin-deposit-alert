@@ -4807,7 +4807,7 @@
   "BDX:bdx": {
     "coin": "BDX",
     "network": "BDX",
-    "enabled": false
+    "enabled": true
   },
   "HIMFERS:eth": {
     "coin": "HIMFERS",
@@ -10207,7 +10207,7 @@
   "ZIG:zigchain": {
     "coin": "ZIG",
     "network": "Zigchain",
-    "enabled": false
+    "enabled": true
   },
   "UDS:eth": {
     "coin": "UDS",
@@ -10972,6 +10972,11 @@
   "HOODX:sol": {
     "coin": "HOODX",
     "network": "SOL",
+    "enabled": true
+  },
+  "XDP:base": {
+    "coin": "XDP",
+    "network": "Base",
     "enabled": true
   },
   "VSYS:vsys": {
