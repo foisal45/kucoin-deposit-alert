@@ -6327,7 +6327,7 @@
   "MANTA:manta": {
     "coin": "MANTA",
     "network": "Manta",
-    "enabled": false
+    "enabled": true
   },
   "ORCA:sol": {
     "coin": "ORCA",
