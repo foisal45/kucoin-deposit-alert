@@ -137,7 +137,7 @@
   "ATOM:atom": {
     "coin": "ATOM",
     "network": "ATOM",
-    "enabled": false
+    "enabled": true
   },
   "CHR:eth": {
     "coin": "CHR",
