@@ -3982,7 +3982,7 @@
   "AURORA:aurora": {
     "coin": "AURORA",
     "network": "AURORA",
-    "enabled": false
+    "enabled": true
   },
   "ELITEHERO:kcc": {
     "coin": "ELITEHERO",
