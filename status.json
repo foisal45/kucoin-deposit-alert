@@ -197,7 +197,7 @@
   "XTZ:xtz": {
     "coin": "XTZ",
     "network": "XTZ",
-    "enabled": true
+    "enabled": false
   },
   "BNB:bsc": {
     "coin": "BNB",
@@ -12282,7 +12282,7 @@
   "USDT:xtz": {
     "coin": "USDT",
     "network": "XTZ",
-    "enabled": true
+    "enabled": false
   },
   "USDT:arbitrum": {
     "coin": "USDT",
