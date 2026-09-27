@@ -11894,6 +11894,11 @@
     "network": "PURA",
     "enabled": false
   },
+  "QKC:qkc": {
+    "coin": "QKC",
+    "network": "QKC",
+    "enabled": false
+  },
   "QLC:neo": {
     "coin": "QLC",
     "network": "NEO",
