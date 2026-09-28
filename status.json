@@ -197,7 +197,7 @@
   "XTZ:xtz": {
     "coin": "XTZ",
     "network": "XTZ",
-    "enabled": false
+    "enabled": true
   },
   "BNB:bsc": {
     "coin": "BNB",
@@ -2707,7 +2707,7 @@
   "INJ:inj": {
     "coin": "INJ",
     "network": "INJ",
-    "enabled": false
+    "enabled": true
   },
   "NFTB:bsc": {
     "coin": "NFTB",
@@ -12287,7 +12287,7 @@
   "USDT:xtz": {
     "coin": "USDT",
     "network": "XTZ",
-    "enabled": false
+    "enabled": true
   },
   "USDT:arbitrum": {
     "coin": "USDT",
