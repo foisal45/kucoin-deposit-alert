@@ -10587,7 +10587,7 @@
   "PROS:pharos": {
     "coin": "PROS",
     "network": "Pharos Mainnet",
-    "enabled": true
+    "enabled": false
   },
   "AKITA:eth": {
     "coin": "AKITA",
