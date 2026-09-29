@@ -6192,7 +6192,7 @@
   "TAO:tao": {
     "coin": "TAO",
     "network": "Bittensor",
-    "enabled": false
+    "enabled": true
   },
   "TURT:eth": {
     "coin": "TURT",
