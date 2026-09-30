@@ -10207,7 +10207,7 @@
   "ZIG:zigchain": {
     "coin": "ZIG",
     "network": "Zigchain",
-    "enabled": true
+    "enabled": false
   },
   "UDS:eth": {
     "coin": "UDS",
@@ -12332,7 +12332,7 @@
   "WAN:wan": {
     "coin": "WAN",
     "network": "WAN",
-    "enabled": true
+    "enabled": false
   },
   "WAX:waxp": {
     "coin": "WAX",
