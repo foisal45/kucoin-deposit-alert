@@ -10979,6 +10979,11 @@
     "network": "Base",
     "enabled": true
   },
+  "CT:eth": {
+    "coin": "CT",
+    "network": "ERC20",
+    "enabled": true
+  },
   "VSYS:vsys": {
     "coin": "VSYS",
     "network": "VSYS",
