@@ -2202,7 +2202,7 @@
   "XPR:xpr": {
     "coin": "XPR",
     "network": "XPR",
-    "enabled": false
+    "enabled": true
   },
   "TRIBE:eth": {
     "coin": "TRIBE",
