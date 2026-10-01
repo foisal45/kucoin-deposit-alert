@@ -2762,7 +2762,7 @@
   "AR:ar": {
     "coin": "AR",
     "network": "AR",
-    "enabled": true
+    "enabled": false
   },
   "XVS:bsc": {
     "coin": "XVS",
