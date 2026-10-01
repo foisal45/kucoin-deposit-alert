@@ -9207,7 +9207,7 @@
   "MORI:sol": {
     "coin": "MORI",
     "network": "SOL",
-    "enabled": true
+    "enabled": false
   },
   "VELVET:bsc": {
     "coin": "VELVET",
