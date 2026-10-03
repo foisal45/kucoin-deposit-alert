@@ -22,7 +22,7 @@
   "FET:eth": {
     "coin": "FET",
     "network": "ERC20",
-    "enabled": false
+    "enabled": true
   },
   "XMR:xmr": {
     "coin": "XMR",
