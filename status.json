@@ -572,7 +572,7 @@
   "STX:stx": {
     "coin": "STX",
     "network": "STX",
-    "enabled": false
+    "enabled": true
   },
   "USDN:waves": {
     "coin": "USDN",
@@ -6297,7 +6297,7 @@
   "ALEX:stx": {
     "coin": "ALEX",
     "network": "STX",
-    "enabled": false
+    "enabled": true
   },
   "ZKF:eth": {
     "coin": "ZKF",
