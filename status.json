@@ -2047,7 +2047,7 @@
   "NEAR:near": {
     "coin": "NEAR",
     "network": "NEAR",
-    "enabled": false
+    "enabled": true
   },
   "OOE:bsc": {
     "coin": "OOE",
