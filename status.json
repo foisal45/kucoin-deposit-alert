@@ -10989,6 +10989,11 @@
     "network": "ERC20",
     "enabled": true
   },
+  "EVAA:bsc": {
+    "coin": "EVAA",
+    "network": "BEP20",
+    "enabled": true
+  },
   "VSYS:vsys": {
     "coin": "VSYS",
     "network": "VSYS",
