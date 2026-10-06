@@ -1372,7 +1372,7 @@
   "VAI:eth": {
     "coin": "VAI",
     "network": "ERC20",
-    "enabled": true
+    "enabled": false
   },
   "DODO:eth": {
     "coin": "DODO",
@@ -1452,7 +1452,7 @@
   "FORTH:eth": {
     "coin": "FORTH",
     "network": "ERC20",
-    "enabled": true
+    "enabled": false
   },
   "CARR:eth": {
     "coin": "CARR",
@@ -2257,7 +2257,7 @@
   "BAL:eth": {
     "coin": "BAL",
     "network": "ERC20",
-    "enabled": true
+    "enabled": false
   },
   "STORJ:eth": {
     "coin": "STORJ",
@@ -3187,7 +3187,7 @@
   "SFP:bsc": {
     "coin": "SFP",
     "network": "BEP20",
-    "enabled": true
+    "enabled": false
   },
   "BURGER:bsc": {
     "coin": "BURGER",
@@ -4122,7 +4122,7 @@
   "BOBA:eth": {
     "coin": "BOBA",
     "network": "ERC20",
-    "enabled": true
+    "enabled": false
   },
   "XRACER:kcc": {
     "coin": "XRACER",
@@ -4317,12 +4317,12 @@
   "USDP:eth": {
     "coin": "USDP",
     "network": "ERC20",
-    "enabled": true
+    "enabled": false
   },
   "USDP:kcc": {
     "coin": "USDP",
     "network": "KCC",
-    "enabled": true
+    "enabled": false
   },
   "WELL:base": {
     "coin": "WELL",
@@ -4532,7 +4532,7 @@
   "ETHW:ethw": {
     "coin": "ETHW",
     "network": "Ethereum Pow",
-    "enabled": true
+    "enabled": false
   },
   "QUARTZ:eth": {
     "coin": "QUARTZ",
@@ -6587,7 +6587,7 @@
   "SCA:sui": {
     "coin": "SCA",
     "network": "SUI",
-    "enabled": true
+    "enabled": false
   },
   "HTX:trx": {
     "coin": "HTX",
@@ -6662,7 +6662,7 @@
   "GMRX:bsc": {
     "coin": "GMRX",
     "network": "BEP20",
-    "enabled": true
+    "enabled": false
   },
   "BRAWL:sol": {
     "coin": "BRAWL",
@@ -7202,7 +7202,7 @@
   "L3:eth": {
     "coin": "L3",
     "network": "ERC20",
-    "enabled": true
+    "enabled": false
   },
   "MAX:eth": {
     "coin": "MAX",
@@ -8367,7 +8367,7 @@
   "CHEEMS:bsc": {
     "coin": "CHEEMS",
     "network": "BEP20",
-    "enabled": true
+    "enabled": false
   },
   "SFI:eth": {
     "coin": "SFI",
@@ -8437,7 +8437,7 @@
   "B3:base": {
     "coin": "B3",
     "network": "Base",
-    "enabled": true
+    "enabled": false
   },
   "BROCCOLI:bsc": {
     "coin": "BROCCOLI",
@@ -8927,7 +8927,7 @@
   "B:bsc": {
     "coin": "B",
     "network": "BEP20",
-    "enabled": true
+    "enabled": false
   },
   "B:eth": {
     "coin": "B",
@@ -9357,7 +9357,7 @@
   "A47:sol": {
     "coin": "A47",
     "network": "SOL",
-    "enabled": true
+    "enabled": false
   },
   "URANUS:sol": {
     "coin": "URANUS",
@@ -10407,7 +10407,7 @@
   "PVT:sol": {
     "coin": "PVT",
     "network": "SOL",
-    "enabled": true
+    "enabled": false
   },
   "INX:eth": {
     "coin": "INX",
@@ -10527,7 +10527,7 @@
   "WL:bsc": {
     "coin": "WL",
     "network": "BEP20",
-    "enabled": true
+    "enabled": false
   },
   "BASED:eth": {
     "coin": "BASED",
