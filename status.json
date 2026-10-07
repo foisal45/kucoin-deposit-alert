@@ -2707,7 +2707,7 @@
   "INJ:inj": {
     "coin": "INJ",
     "network": "INJ",
-    "enabled": true
+    "enabled": false
   },
   "NFTB:bsc": {
     "coin": "NFTB",
@@ -8167,7 +8167,7 @@
   "RONIN:ronin": {
     "coin": "RONIN",
     "network": "Ronin",
-    "enabled": true
+    "enabled": false
   },
   "LOFI:sui": {
     "coin": "LOFI",
