@@ -2707,7 +2707,7 @@
   "INJ:inj": {
     "coin": "INJ",
     "network": "INJ",
-    "enabled": false
+    "enabled": true
   },
   "NFTB:bsc": {
     "coin": "NFTB",
@@ -3692,7 +3692,7 @@
   "STG:eth": {
     "coin": "STG",
     "network": "ERC20",
-    "enabled": true
+    "enabled": false
   },
   "LMR:eth": {
     "coin": "LMR",
@@ -7047,7 +7047,7 @@
   "BLAST:blast": {
     "coin": "BLAST",
     "network": "BLAST",
-    "enabled": true
+    "enabled": false
   },
   "ZRO:eth": {
     "coin": "ZRO",
@@ -8167,7 +8167,7 @@
   "RONIN:ronin": {
     "coin": "RONIN",
     "network": "Ronin",
-    "enabled": false
+    "enabled": true
   },
   "LOFI:sui": {
     "coin": "LOFI",
@@ -9147,7 +9147,7 @@
   "NODE:eth": {
     "coin": "NODE",
     "network": "ERC20",
-    "enabled": true
+    "enabled": false
   },
   "ECHO:aptos": {
     "coin": "ECHO",
