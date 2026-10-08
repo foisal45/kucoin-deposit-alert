@@ -11334,8 +11334,8 @@
     "network": "DGB",
     "enabled": true
   },
-  "DNA:eth": {
-    "coin": "DNA",
+  "DNAOLD:eth": {
+    "coin": "DNAOLD",
     "network": "ERC20",
     "enabled": false
   },
