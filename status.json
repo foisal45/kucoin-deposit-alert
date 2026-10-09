@@ -10207,7 +10207,7 @@
   "ZIG:zigchain": {
     "coin": "ZIG",
     "network": "Zigchain",
-    "enabled": false
+    "enabled": true
   },
   "UDS:eth": {
     "coin": "UDS",
