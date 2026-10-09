@@ -12389,9 +12389,9 @@
     "network": "ERC20",
     "enabled": true
   },
-  "ZIL:zil": {
+  "ZIL:zilliqa2": {
     "coin": "ZIL",
-    "network": "ZIL",
+    "network": "Zilliqa 2",
     "enabled": false
   },
   "ZINC:eth": {
