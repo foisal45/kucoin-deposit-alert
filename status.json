@@ -27,7 +27,7 @@
   "XMR:xmr": {
     "coin": "XMR",
     "network": "XMR",
-    "enabled": true
+    "enabled": false
   },
   "RBTC:rbtc": {
     "coin": "RBTC",
@@ -12392,7 +12392,7 @@
   "ZIL:zilliqa2": {
     "coin": "ZIL",
     "network": "Zilliqa 2",
-    "enabled": false
+    "enabled": true
   },
   "ZINC:eth": {
     "coin": "ZINC",
