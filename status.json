@@ -27,7 +27,7 @@
   "XMR:xmr": {
     "coin": "XMR",
     "network": "XMR",
-    "enabled": false
+    "enabled": true
   },
   "RBTC:rbtc": {
     "coin": "RBTC",
