@@ -4162,7 +4162,7 @@
   "MBL:ont": {
     "coin": "MBL",
     "network": "ONT",
-    "enabled": true
+    "enabled": false
   },
   "DUSK:eth": {
     "coin": "DUSK",
@@ -11822,7 +11822,7 @@
   "ONT:ont": {
     "coin": "ONT",
     "network": "ONT",
-    "enabled": true
+    "enabled": false
   },
   "OPENPLAT:eth": {
     "coin": "OPENPLAT",
