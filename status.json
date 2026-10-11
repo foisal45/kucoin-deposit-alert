@@ -227,7 +227,7 @@
   "ADA:ada": {
     "coin": "ADA",
     "network": "ADA",
-    "enabled": true
+    "enabled": false
   },
   "NEM:nem": {
     "coin": "NEM",
@@ -3497,7 +3497,7 @@
   "REVU:ada": {
     "coin": "REVU",
     "network": "ADA",
-    "enabled": true
+    "enabled": false
   },
   "PLGR:bsc": {
     "coin": "PLGR",
@@ -9472,7 +9472,7 @@
   "SNEK:ada": {
     "coin": "SNEK",
     "network": "ADA",
-    "enabled": true
+    "enabled": false
   },
   "PROPS:aptos": {
     "coin": "PROPS",
@@ -9992,7 +9992,7 @@
   "IAG:ada": {
     "coin": "IAG",
     "network": "ADA",
-    "enabled": true
+    "enabled": false
   },
   "PIGGY:bsc": {
     "coin": "PIGGY",
@@ -10167,7 +10167,7 @@
   "NIGHT:ada": {
     "coin": "NIGHT",
     "network": "ADA",
-    "enabled": true
+    "enabled": false
   },
   "WET:sol": {
     "coin": "WET",
@@ -10247,7 +10247,7 @@
   "MIN:ada": {
     "coin": "MIN",
     "network": "ADA",
-    "enabled": true
+    "enabled": false
   },
   "HLS:eth": {
     "coin": "HLS",
@@ -10957,6 +10957,11 @@
   "ON:eth": {
     "coin": "ON",
     "network": "ERC20",
+    "enabled": true
+  },
+  "CENT:incentiv": {
+    "coin": "CENT",
+    "network": "incentiv",
     "enabled": true
   },
   "AAPLX:sol": {
