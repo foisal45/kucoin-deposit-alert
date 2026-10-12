@@ -227,7 +227,7 @@
   "ADA:ada": {
     "coin": "ADA",
     "network": "ADA",
-    "enabled": false
+    "enabled": true
   },
   "NEM:nem": {
     "coin": "NEM",
@@ -3497,7 +3497,7 @@
   "REVU:ada": {
     "coin": "REVU",
     "network": "ADA",
-    "enabled": false
+    "enabled": true
   },
   "PLGR:bsc": {
     "coin": "PLGR",
@@ -9472,7 +9472,7 @@
   "SNEK:ada": {
     "coin": "SNEK",
     "network": "ADA",
-    "enabled": false
+    "enabled": true
   },
   "PROPS:aptos": {
     "coin": "PROPS",
@@ -9992,7 +9992,7 @@
   "IAG:ada": {
     "coin": "IAG",
     "network": "ADA",
-    "enabled": false
+    "enabled": true
   },
   "PIGGY:bsc": {
     "coin": "PIGGY",
@@ -10167,7 +10167,7 @@
   "NIGHT:ada": {
     "coin": "NIGHT",
     "network": "ADA",
-    "enabled": false
+    "enabled": true
   },
   "WET:sol": {
     "coin": "WET",
@@ -10247,7 +10247,7 @@
   "MIN:ada": {
     "coin": "MIN",
     "network": "ADA",
-    "enabled": false
+    "enabled": true
   },
   "HLS:eth": {
     "coin": "HLS",
@@ -10996,6 +10996,11 @@
   },
   "EVAA:bsc": {
     "coin": "EVAA",
+    "network": "BEP20",
+    "enabled": true
+  },
+  "VAYLA:bsc": {
+    "coin": "VAYLA",
     "network": "BEP20",
     "enabled": true
   },
