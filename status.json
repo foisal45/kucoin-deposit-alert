@@ -8787,7 +8787,7 @@
   "SHM:shardeum": {
     "coin": "SHM",
     "network": "Shardeum",
-    "enabled": true
+    "enabled": false
   },
   "DOOD:sol": {
     "coin": "DOOD",
@@ -10206,7 +10206,7 @@
   },
   "ZIG:zigchain": {
     "coin": "ZIG",
-    "network": "Zigchain",
+    "network": "Zig Finance",
     "enabled": true
   },
   "UDS:eth": {
