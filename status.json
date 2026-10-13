@@ -349,6 +349,11 @@
     "network": "ONE",
     "enabled": false
   },
+  "ONE:eth": {
+    "coin": "ONE",
+    "network": "ERC20",
+    "enabled": false
+  },
   "TOKO:bsc": {
     "coin": "TOKO",
     "network": "BEP20",
@@ -5072,7 +5077,7 @@
   "HMND:hmnd": {
     "coin": "HMND",
     "network": "HMND",
-    "enabled": true
+    "enabled": false
   },
   "HIFI:eth": {
     "coin": "HIFI",
@@ -8787,7 +8792,7 @@
   "SHM:shardeum": {
     "coin": "SHM",
     "network": "Shardeum",
-    "enabled": false
+    "enabled": true
   },
   "DOOD:sol": {
     "coin": "DOOD",
