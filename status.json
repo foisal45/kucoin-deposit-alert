@@ -10737,7 +10737,7 @@
   "KONET:konet": {
     "coin": "KONET",
     "network": "Konet",
-    "enabled": true
+    "enabled": false
   },
   "U:bsc": {
     "coin": "U",
