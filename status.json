@@ -344,15 +344,10 @@
     "network": "THETA",
     "enabled": true
   },
-  "ONE:one": {
-    "coin": "ONE",
-    "network": "ONE",
-    "enabled": false
-  },
   "ONE:eth": {
     "coin": "ONE",
     "network": "ERC20",
-    "enabled": false
+    "enabled": true
   },
   "TOKO:bsc": {
     "coin": "TOKO",
@@ -9157,7 +9152,7 @@
   "ECHO:aptos": {
     "coin": "ECHO",
     "network": "APT",
-    "enabled": true
+    "enabled": false
   },
   "ICNT:base": {
     "coin": "ICNT",
