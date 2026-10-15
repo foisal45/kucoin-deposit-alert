@@ -6709,11 +6709,6 @@
     "network": "ERC20",
     "enabled": true
   },
-  "TRUF:arbitrum": {
-    "coin": "TRUF",
-    "network": "ARBITRUM",
-    "enabled": false
-  },
   "MEW:sol": {
     "coin": "MEW",
     "network": "SOL",
