@@ -4807,7 +4807,7 @@
   "BDX:bdx": {
     "coin": "BDX",
     "network": "BDX",
-    "enabled": true
+    "enabled": false
   },
   "HIMFERS:eth": {
     "coin": "HIMFERS",
