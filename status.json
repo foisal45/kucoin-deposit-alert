@@ -4162,7 +4162,7 @@
   "MBL:ont": {
     "coin": "MBL",
     "network": "ONT",
-    "enabled": false
+    "enabled": true
   },
   "DUSK:eth": {
     "coin": "DUSK",
@@ -10577,7 +10577,7 @@
   "BLEND:fluent": {
     "coin": "BLEND",
     "network": "Fluent",
-    "enabled": true
+    "enabled": false
   },
   "PROS:pharos": {
     "coin": "PROS",
@@ -11832,7 +11832,7 @@
   "ONT:ont": {
     "coin": "ONT",
     "network": "ONT",
-    "enabled": false
+    "enabled": true
   },
   "OPENPLAT:eth": {
     "coin": "OPENPLAT",
