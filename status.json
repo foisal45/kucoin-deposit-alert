@@ -10747,7 +10747,7 @@
   "ILY:base": {
     "coin": "ILY",
     "network": "Base",
-    "enabled": true
+    "enabled": false
   },
   "RE:eth": {
     "coin": "RE",
