@@ -9617,7 +9617,7 @@
   "UNION:eth": {
     "coin": "UNION",
     "network": "ERC20",
-    "enabled": true
+    "enabled": false
   },
   "RARI:eth": {
     "coin": "RARI",
