@@ -4807,7 +4807,7 @@
   "BDX:bdx": {
     "coin": "BDX",
     "network": "BDX",
-    "enabled": false
+    "enabled": true
   },
   "HIMFERS:eth": {
     "coin": "HIMFERS",
@@ -10197,7 +10197,7 @@
   "CYS:bsc": {
     "coin": "CYS",
     "network": "BEP20",
-    "enabled": true
+    "enabled": false
   },
   "ZIG:zigchain": {
     "coin": "ZIG",
