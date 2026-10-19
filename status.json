@@ -11602,7 +11602,7 @@
   "IOTX:iotex": {
     "coin": "IOTX",
     "network": "IOTX",
-    "enabled": false
+    "enabled": true
   },
   "ITC:itc": {
     "coin": "ITC",
