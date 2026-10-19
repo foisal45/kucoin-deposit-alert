@@ -817,7 +817,7 @@
   "FIL:fil": {
     "coin": "FIL",
     "network": "FIL",
-    "enabled": true
+    "enabled": false
   },
   "COMB:eth": {
     "coin": "COMB",
@@ -9167,7 +9167,7 @@
   "AIN:bsc": {
     "coin": "AIN",
     "network": "BEP20",
-    "enabled": false
+    "enabled": true
   },
   "BOOM:bsc": {
     "coin": "BOOM",
@@ -12182,11 +12182,6 @@
   "USDC:matic": {
     "coin": "USDC",
     "network": "Polygon POS",
-    "enabled": true
-  },
-  "USDC:noble": {
-    "coin": "USDC",
-    "network": "Noble",
     "enabled": true
   },
   "USDC:eth": {
