@@ -817,7 +817,7 @@
   "FIL:fil": {
     "coin": "FIL",
     "network": "FIL",
-    "enabled": false
+    "enabled": true
   },
   "COMB:eth": {
     "coin": "COMB",
@@ -6647,7 +6647,7 @@
   "MPC:partisia": {
     "coin": "MPC",
     "network": "PARTISIA",
-    "enabled": true
+    "enabled": false
   },
   "ZKJ:eth": {
     "coin": "ZKJ",
