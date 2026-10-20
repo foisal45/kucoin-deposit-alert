@@ -6647,7 +6647,7 @@
   "MPC:partisia": {
     "coin": "MPC",
     "network": "PARTISIA",
-    "enabled": false
+    "enabled": true
   },
   "ZKJ:eth": {
     "coin": "ZKJ",
@@ -9142,7 +9142,7 @@
   "NODE:eth": {
     "coin": "NODE",
     "network": "ERC20",
-    "enabled": false
+    "enabled": true
   },
   "ECHO:aptos": {
     "coin": "ECHO",
@@ -10832,7 +10832,7 @@
   "AIR:bsc": {
     "coin": "AIR",
     "network": "BEP20",
-    "enabled": false
+    "enabled": true
   },
   "DOS:eth": {
     "coin": "DOS",
