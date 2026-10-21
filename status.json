@@ -8909,11 +8909,6 @@
     "network": "ERC20",
     "enabled": true
   },
-  "SOPH:sophon": {
-    "coin": "SOPH",
-    "network": "SOPH",
-    "enabled": false
-  },
   "LAT:platon": {
     "coin": "LAT",
     "network": "PlatON",
