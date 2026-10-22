@@ -4162,7 +4162,7 @@
   "MBL:ont": {
     "coin": "MBL",
     "network": "ONT",
-    "enabled": true
+    "enabled": false
   },
   "DUSK:eth": {
     "coin": "DUSK",
@@ -7202,11 +7202,6 @@
   "MAX:eth": {
     "coin": "MAX",
     "network": "ERC20",
-    "enabled": false
-  },
-  "G:gravity": {
-    "coin": "G",
-    "network": "Gravity",
     "enabled": false
   },
   "G:eth": {
@@ -10999,6 +10994,11 @@
     "network": "BEP20",
     "enabled": true
   },
+  "AXIS:base": {
+    "coin": "AXIS",
+    "network": "Base",
+    "enabled": true
+  },
   "VSYS:vsys": {
     "coin": "VSYS",
     "network": "VSYS",
@@ -11827,7 +11827,7 @@
   "ONT:ont": {
     "coin": "ONT",
     "network": "ONT",
-    "enabled": true
+    "enabled": false
   },
   "OPENPLAT:eth": {
     "coin": "OPENPLAT",
