@@ -9617,7 +9617,7 @@
   "ART:base": {
     "coin": "ART",
     "network": "Base",
-    "enabled": true
+    "enabled": false
   },
   "OPEN:eth": {
     "coin": "OPEN",
