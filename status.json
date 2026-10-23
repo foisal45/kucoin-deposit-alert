@@ -4737,7 +4737,7 @@
   "NAVI:eth": {
     "coin": "NAVI",
     "network": "ERC20",
-    "enabled": true
+    "enabled": false
   },
   "HIPENGUINS:eth": {
     "coin": "HIPENGUINS",
@@ -8702,7 +8702,7 @@
   "INIT:init": {
     "coin": "INIT",
     "network": "Initia",
-    "enabled": true
+    "enabled": false
   },
   "DOLO:bera": {
     "coin": "DOLO",
