@@ -2367,7 +2367,7 @@
   "EGLD:egld": {
     "coin": "EGLD",
     "network": "EGLD",
-    "enabled": false
+    "enabled": true
   },
   "FLOW:flow": {
     "coin": "FLOW",
@@ -9617,7 +9617,7 @@
   "ART:base": {
     "coin": "ART",
     "network": "Base",
-    "enabled": false
+    "enabled": true
   },
   "OPEN:eth": {
     "coin": "OPEN",
@@ -10647,7 +10647,7 @@
   "HPP:hpp": {
     "coin": "HPP",
     "network": "HPP Mainet",
-    "enabled": false
+    "enabled": true
   },
   "NXT:bsc": {
     "coin": "NXT",
