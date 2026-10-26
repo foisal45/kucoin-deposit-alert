@@ -4257,12 +4257,12 @@
   "LUNC:lunc": {
     "coin": "LUNC",
     "network": "LUNC",
-    "enabled": true
+    "enabled": false
   },
   "USTC:lunc": {
     "coin": "USTC",
     "network": "LUNC",
-    "enabled": true
+    "enabled": false
   },
   "JASMY3L:eth": {
     "coin": "JASMY3L",
