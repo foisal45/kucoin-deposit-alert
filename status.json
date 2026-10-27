@@ -4257,12 +4257,12 @@
   "LUNC:lunc": {
     "coin": "LUNC",
     "network": "LUNC",
-    "enabled": false
+    "enabled": true
   },
   "USTC:lunc": {
     "coin": "USTC",
     "network": "LUNC",
-    "enabled": false
+    "enabled": true
   },
   "JASMY3L:eth": {
     "coin": "JASMY3L",
@@ -10997,6 +10997,11 @@
   "AXIS:base": {
     "coin": "AXIS",
     "network": "Base",
+    "enabled": true
+  },
+  "NAORIS:eth": {
+    "coin": "NAORIS",
+    "network": "ERC20",
     "enabled": true
   },
   "VSYS:vsys": {
