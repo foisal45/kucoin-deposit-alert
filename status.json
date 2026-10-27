@@ -6782,7 +6782,7 @@
   "MAPO:mapo": {
     "coin": "MAPO",
     "network": "Mapo",
-    "enabled": false
+    "enabled": true
   },
   "MERL:merlin": {
     "coin": "MERL",
@@ -10402,7 +10402,7 @@
   "WARD:warden": {
     "coin": "WARD",
     "network": "WARD",
-    "enabled": true
+    "enabled": false
   },
   "TRIA:eth": {
     "coin": "TRIA",
@@ -12228,11 +12228,6 @@
     "coin": "USDT",
     "network": "Asset Hub(Polkadot)",
     "enabled": true
-  },
-  "USDT:optimism": {
-    "coin": "USDT",
-    "network": "OPTIMISM",
-    "enabled": false
   },
   "USDT:ton2": {
     "coin": "USDT",
