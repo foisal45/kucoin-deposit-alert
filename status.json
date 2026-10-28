@@ -11004,6 +11004,11 @@
     "network": "ERC20",
     "enabled": true
   },
+  "RITUAL:ritual": {
+    "coin": "RITUAL",
+    "network": "Ritual Chain",
+    "enabled": true
+  },
   "VSYS:vsys": {
     "coin": "VSYS",
     "network": "VSYS",
