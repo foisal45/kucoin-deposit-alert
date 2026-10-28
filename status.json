@@ -12347,7 +12347,7 @@
   "WAN:wan": {
     "coin": "WAN",
     "network": "WAN",
-    "enabled": false
+    "enabled": true
   },
   "WAX:waxp": {
     "coin": "WAX",
