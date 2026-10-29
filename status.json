@@ -6497,7 +6497,7 @@
   "STRK:starknet": {
     "coin": "STRK",
     "network": "STARKNET",
-    "enabled": true
+    "enabled": false
   },
   "BCUT:eth": {
     "coin": "BCUT",
@@ -11522,7 +11522,7 @@
   "GAS:neon3": {
     "coin": "GAS",
     "network": "NEON3",
-    "enabled": false
+    "enabled": true
   },
   "GAT:eth": {
     "coin": "GAT",
@@ -11797,7 +11797,7 @@
   "NEO:neon3": {
     "coin": "NEO",
     "network": "NEON3",
-    "enabled": false
+    "enabled": true
   },
   "NULS:nuls": {
     "coin": "NULS",
