@@ -11522,7 +11522,7 @@
   "GAS:neon3": {
     "coin": "GAS",
     "network": "NEON3",
-    "enabled": true
+    "enabled": false
   },
   "GAT:eth": {
     "coin": "GAT",
@@ -11797,7 +11797,7 @@
   "NEO:neon3": {
     "coin": "NEO",
     "network": "NEON3",
-    "enabled": true
+    "enabled": false
   },
   "NULS:nuls": {
     "coin": "NULS",
