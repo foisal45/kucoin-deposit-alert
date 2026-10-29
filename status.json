@@ -4622,7 +4622,7 @@
   "POKT:poktshannon": {
     "coin": "POKT",
     "network": "Pokt Shannon",
-    "enabled": false
+    "enabled": true
   },
   "EFI:eth": {
     "coin": "EFI",
@@ -4792,7 +4792,7 @@
   "OSMO:osmo": {
     "coin": "OSMO",
     "network": "OSMO",
-    "enabled": false
+    "enabled": true
   },
   "FLR:flare": {
     "coin": "FLR",
@@ -6702,7 +6702,7 @@
   "AERO:base": {
     "coin": "AERO",
     "network": "Base",
-    "enabled": true
+    "enabled": false
   },
   "TRUF:eth": {
     "coin": "TRUF",
@@ -8077,7 +8077,7 @@
   "SONIC:sol": {
     "coin": "SONIC",
     "network": "SOL",
-    "enabled": false
+    "enabled": true
   },
   "EMYC:emyc": {
     "coin": "EMYC",
@@ -10812,7 +10812,7 @@
   "2U2:bsc": {
     "coin": "2U2",
     "network": "BEP20",
-    "enabled": true
+    "enabled": false
   },
   "PIPEDOG:robinhood": {
     "coin": "PIPEDOG",
@@ -11007,6 +11007,11 @@
   "RITUAL:ritual": {
     "coin": "RITUAL",
     "network": "Ritual Chain",
+    "enabled": true
+  },
+  "SKYAI:bsc": {
+    "coin": "SKYAI",
+    "network": "BEP20",
     "enabled": true
   },
   "VSYS:vsys": {
