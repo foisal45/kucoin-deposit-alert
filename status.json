@@ -2357,7 +2357,7 @@
   "HBAR:hbar": {
     "coin": "HBAR",
     "network": "HBAR",
-    "enabled": false
+    "enabled": true
   },
   "XPRT:xprt": {
     "coin": "XPRT",
@@ -6782,7 +6782,7 @@
   "MAPO:mapo": {
     "coin": "MAPO",
     "network": "Mapo",
-    "enabled": false
+    "enabled": true
   },
   "MERL:merlin": {
     "coin": "MERL",
@@ -7737,7 +7737,7 @@
   "VERONA:xion": {
     "coin": "VERONA",
     "network": "Verona",
-    "enabled": false
+    "enabled": true
   },
   "VIRTUAL:base": {
     "coin": "VIRTUAL",
