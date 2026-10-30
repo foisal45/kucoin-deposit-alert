@@ -172,7 +172,7 @@
   "COTI:cotievm": {
     "coin": "COTI",
     "network": "COTI",
-    "enabled": true
+    "enabled": false
   },
   "FX:eth": {
     "coin": "FX",
