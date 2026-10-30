@@ -6497,7 +6497,7 @@
   "STRK:starknet": {
     "coin": "STRK",
     "network": "STARKNET",
-    "enabled": false
+    "enabled": true
   },
   "BCUT:eth": {
     "coin": "BCUT",
@@ -11013,6 +11013,26 @@
     "coin": "SKYAI",
     "network": "BEP20",
     "enabled": true
+  },
+  "AMZNX:sol": {
+    "coin": "AMZNX",
+    "network": "SOL",
+    "enabled": false
+  },
+  "COINX:sol": {
+    "coin": "COINX",
+    "network": "SOL",
+    "enabled": false
+  },
+  "INTCX:sol": {
+    "coin": "INTCX",
+    "network": "SOL",
+    "enabled": false
+  },
+  "METAX:sol": {
+    "coin": "METAX",
+    "network": "SOL",
+    "enabled": false
   },
   "VSYS:vsys": {
     "coin": "VSYS",
