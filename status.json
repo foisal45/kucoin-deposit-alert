@@ -10647,7 +10647,7 @@
   "HPP:hpp": {
     "coin": "HPP",
     "network": "HPP Mainet",
-    "enabled": true
+    "enabled": false
   },
   "NXT:bsc": {
     "coin": "NXT",
@@ -10987,7 +10987,7 @@
   "VAYLA:bsc": {
     "coin": "VAYLA",
     "network": "BEP20",
-    "enabled": true
+    "enabled": false
   },
   "DNA:bsc": {
     "coin": "DNA",
