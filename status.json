@@ -2557,7 +2557,7 @@
   "RUNE:rune": {
     "coin": "RUNE",
     "network": "RUNE",
-    "enabled": true
+    "enabled": false
   },
   "MATTER:eth": {
     "coin": "MATTER",
@@ -6782,7 +6782,7 @@
   "MAPO:mapo": {
     "coin": "MAPO",
     "network": "Mapo",
-    "enabled": true
+    "enabled": false
   },
   "MERL:merlin": {
     "coin": "MERL",
