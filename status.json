@@ -10647,7 +10647,7 @@
   "HPP:hpp": {
     "coin": "HPP",
     "network": "HPP Mainet",
-    "enabled": false
+    "enabled": true
   },
   "NXT:bsc": {
     "coin": "NXT",
