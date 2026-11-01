@@ -4332,7 +4332,7 @@
   "CSPR:cspr": {
     "coin": "CSPR",
     "network": "Casper",
-    "enabled": true
+    "enabled": false
   },
   "FORT:eth": {
     "coin": "FORT",
