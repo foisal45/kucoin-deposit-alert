@@ -2557,7 +2557,7 @@
   "RUNE:rune": {
     "coin": "RUNE",
     "network": "RUNE",
-    "enabled": false
+    "enabled": true
   },
   "MATTER:eth": {
     "coin": "MATTER",
@@ -8822,12 +8822,12 @@
   "SOON:sol": {
     "coin": "SOON",
     "network": "SOL",
-    "enabled": true
+    "enabled": false
   },
   "SOON:bsc": {
     "coin": "SOON",
     "network": "BEP20",
-    "enabled": true
+    "enabled": false
   },
   "AWE:base": {
     "coin": "AWE",
@@ -11372,7 +11372,7 @@
   "DGB:dgb": {
     "coin": "DGB",
     "network": "DGB",
-    "enabled": true
+    "enabled": false
   },
   "DNAOLD:eth": {
     "coin": "DNAOLD",
