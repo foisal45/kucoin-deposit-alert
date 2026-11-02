@@ -172,7 +172,7 @@
   "COTI:cotievm": {
     "coin": "COTI",
     "network": "COTI",
-    "enabled": false
+    "enabled": true
   },
   "FX:eth": {
     "coin": "FX",
@@ -1607,7 +1607,7 @@
   "TLOS:tlosevm": {
     "coin": "TLOS",
     "network": "TELOS(EVM)",
-    "enabled": false
+    "enabled": true
   },
   "TLOS:bsc": {
     "coin": "TLOS",
@@ -6782,7 +6782,7 @@
   "MAPO:mapo": {
     "coin": "MAPO",
     "network": "Mapo",
-    "enabled": false
+    "enabled": true
   },
   "MERL:merlin": {
     "coin": "MERL",
@@ -10399,9 +10399,9 @@
     "network": "ERC20",
     "enabled": true
   },
-  "WARD:warden": {
+  "WARD:base": {
     "coin": "WARD",
-    "network": "WARD",
+    "network": "Base",
     "enabled": false
   },
   "TRIA:eth": {
