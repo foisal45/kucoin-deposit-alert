@@ -9292,7 +9292,7 @@
   "NVDAX:sol": {
     "coin": "NVDAX",
     "network": "SOL",
-    "enabled": false
+    "enabled": true
   },
   "MANYU:eth": {
     "coin": "MANYU",
@@ -11017,22 +11017,22 @@
   "AMZNX:sol": {
     "coin": "AMZNX",
     "network": "SOL",
-    "enabled": false
+    "enabled": true
   },
   "COINX:sol": {
     "coin": "COINX",
     "network": "SOL",
-    "enabled": false
+    "enabled": true
   },
   "INTCX:sol": {
     "coin": "INTCX",
     "network": "SOL",
-    "enabled": false
+    "enabled": true
   },
   "METAX:sol": {
     "coin": "METAX",
     "network": "SOL",
-    "enabled": false
+    "enabled": true
   },
   "VSYS:vsys": {
     "coin": "VSYS",
