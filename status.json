@@ -7737,7 +7737,7 @@
   "VERONA:xion": {
     "coin": "VERONA",
     "network": "Verona",
-    "enabled": true
+    "enabled": false
   },
   "VIRTUAL:base": {
     "coin": "VIRTUAL",
@@ -11372,7 +11372,7 @@
   "DGB:dgb": {
     "coin": "DGB",
     "network": "DGB",
-    "enabled": false
+    "enabled": true
   },
   "DNAOLD:eth": {
     "coin": "DNAOLD",
