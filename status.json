@@ -10402,7 +10402,7 @@
   "WARD:base": {
     "coin": "WARD",
     "network": "Base",
-    "enabled": false
+    "enabled": true
   },
   "TRIA:eth": {
     "coin": "TRIA",
@@ -11032,6 +11032,11 @@
   "METAX:sol": {
     "coin": "METAX",
     "network": "SOL",
+    "enabled": true
+  },
+  "IDOL:bsc": {
+    "coin": "IDOL",
+    "network": "BEP20",
     "enabled": true
   },
   "VSYS:vsys": {
