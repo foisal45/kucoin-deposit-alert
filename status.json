@@ -3007,7 +3007,7 @@
   "ATA:eth": {
     "coin": "ATA",
     "network": "ERC20",
-    "enabled": true
+    "enabled": false
   },
   "FXS:eth": {
     "coin": "FXS",
@@ -5572,7 +5572,7 @@
   "LADYS:eth": {
     "coin": "LADYS",
     "network": "ERC20",
-    "enabled": true
+    "enabled": false
   },
   "RFD:eth": {
     "coin": "RFD",
@@ -6382,7 +6382,7 @@
   "SAROS:sol": {
     "coin": "SAROS",
     "network": "SOL",
-    "enabled": true
+    "enabled": false
   },
   "AMU:sol": {
     "coin": "AMU",
@@ -6502,7 +6502,7 @@
   "BCUT:eth": {
     "coin": "BCUT",
     "network": "ERC20",
-    "enabled": true
+    "enabled": false
   },
   "PIXEL:eth": {
     "coin": "PIXEL",
@@ -7252,7 +7252,7 @@
   "SUNDOG:trx": {
     "coin": "SUNDOG",
     "network": "TRC20",
-    "enabled": true
+    "enabled": false
   },
   "CHO:eth": {
     "coin": "CHO",
@@ -7417,7 +7417,7 @@
   "HIPPO:sui": {
     "coin": "HIPPO",
     "network": "SUI",
-    "enabled": true
+    "enabled": false
   },
   "WMTX:eth": {
     "coin": "WMTX",
@@ -7802,7 +7802,7 @@
   "U2U:u2u": {
     "coin": "U2U",
     "network": "U2U",
-    "enabled": true
+    "enabled": false
   },
   "AVAAI:sol": {
     "coin": "AVAAI",
@@ -8117,7 +8117,7 @@
   "XTER:bsc": {
     "coin": "XTER",
     "network": "BEP20",
-    "enabled": true
+    "enabled": false
   },
   "CLAY:ton": {
     "coin": "CLAY",
@@ -8707,7 +8707,7 @@
   "DOLO:bera": {
     "coin": "DOLO",
     "network": "Bera",
-    "enabled": true
+    "enabled": false
   },
   "CLANKER:base": {
     "coin": "CLANKER",
@@ -9117,7 +9117,7 @@
   "CESS:bsc": {
     "coin": "CESS",
     "network": "BEP20",
-    "enabled": true
+    "enabled": false
   },
   "XAUT:eth": {
     "coin": "XAUT",
@@ -9362,7 +9362,7 @@
   "GAIA:eth": {
     "coin": "GAIA",
     "network": "ERC20",
-    "enabled": true
+    "enabled": false
   },
   "NOBODY:sol": {
     "coin": "NOBODY",
@@ -9402,7 +9402,7 @@
   "SUP:bsc": {
     "coin": "SUP",
     "network": "BEP20",
-    "enabled": true
+    "enabled": false
   },
   "TOWNS:eth": {
     "coin": "TOWNS",
@@ -9882,7 +9882,7 @@
   "XMN:sui": {
     "coin": "XMN",
     "network": "SUI",
-    "enabled": true
+    "enabled": false
   },
   "FLK:base": {
     "coin": "FLK",
@@ -9892,7 +9892,7 @@
   "ANOME:bsc": {
     "coin": "ANOME",
     "network": "BEP20",
-    "enabled": true
+    "enabled": false
   },
   "ENSO:eth": {
     "coin": "ENSO",
@@ -9967,7 +9967,7 @@
   "COMMON:base": {
     "coin": "COMMON",
     "network": "Base",
-    "enabled": true
+    "enabled": false
   },
   "XNL:bsc": {
     "coin": "XNL",
@@ -9982,7 +9982,7 @@
   "PIGGY:bsc": {
     "coin": "PIGGY",
     "network": "BEP20",
-    "enabled": true
+    "enabled": false
   },
   "EAT:sol": {
     "coin": "EAT",
@@ -10192,7 +10192,7 @@
   "ZIG:zigchain": {
     "coin": "ZIG",
     "network": "Zig Finance",
-    "enabled": true
+    "enabled": false
   },
   "UDS:eth": {
     "coin": "UDS",
@@ -10462,7 +10462,7 @@
   "NOON:eth": {
     "coin": "NOON",
     "network": "ERC20",
-    "enabled": true
+    "enabled": false
   },
   "GF:bsc": {
     "coin": "GF",
@@ -10502,7 +10502,7 @@
   "ION:bsc": {
     "coin": "ION",
     "network": "BEP20",
-    "enabled": true
+    "enabled": false
   },
   "PRL:sol": {
     "coin": "PRL",
@@ -12263,6 +12263,11 @@
     "coin": "USDT",
     "network": "Asset Hub(Polkadot)",
     "enabled": true
+  },
+  "USDT:optimism": {
+    "coin": "USDT",
+    "network": "OPTIMISM",
+    "enabled": false
   },
   "USDT:ton2": {
     "coin": "USDT",
