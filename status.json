@@ -10192,7 +10192,7 @@
   "ZIG:zigchain": {
     "coin": "ZIG",
     "network": "Zig Finance",
-    "enabled": false
+    "enabled": true
   },
   "UDS:eth": {
     "coin": "UDS",
@@ -10947,7 +10947,7 @@
   "CENT:incentiv": {
     "coin": "CENT",
     "network": "incentiv",
-    "enabled": true
+    "enabled": false
   },
   "AAPLX:sol": {
     "coin": "AAPLX",
@@ -11037,6 +11037,11 @@
   "IDOL:bsc": {
     "coin": "IDOL",
     "network": "BEP20",
+    "enabled": true
+  },
+  "KOR:base": {
+    "coin": "KOR",
+    "network": "Base",
     "enabled": true
   },
   "VSYS:vsys": {
