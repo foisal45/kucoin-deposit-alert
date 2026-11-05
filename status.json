@@ -8642,7 +8642,7 @@
   "BABY:babylon": {
     "coin": "BABY",
     "network": "BABY",
-    "enabled": true
+    "enabled": false
   },
   "PROMPT:bsc": {
     "coin": "PROMPT",
@@ -10947,7 +10947,7 @@
   "CENT:incentiv": {
     "coin": "CENT",
     "network": "incentiv",
-    "enabled": false
+    "enabled": true
   },
   "AAPLX:sol": {
     "coin": "AAPLX",
