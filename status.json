@@ -3717,12 +3717,12 @@
   "BNC:bncdot": {
     "coin": "BNC",
     "network": "BNC",
-    "enabled": true
+    "enabled": false
   },
   "BNC:bnc": {
     "coin": "BNC",
     "network": "BNC",
-    "enabled": true
+    "enabled": false
   },
   "JAM:eth": {
     "coin": "JAM",
@@ -12272,7 +12272,7 @@
   "USDT:optimism": {
     "coin": "USDT",
     "network": "OPTIMISM",
-    "enabled": false
+    "enabled": true
   },
   "USDT:ton2": {
     "coin": "USDT",
