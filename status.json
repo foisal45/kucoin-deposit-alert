@@ -12437,7 +12437,7 @@
   "ZIL:zilliqa2": {
     "coin": "ZIL",
     "network": "Zilliqa 2",
-    "enabled": true
+    "enabled": false
   },
   "ZINC:eth": {
     "coin": "ZINC",
