@@ -247,7 +247,7 @@
   "ZEC:zec": {
     "coin": "ZEC",
     "network": "ZEC",
-    "enabled": true
+    "enabled": false
   },
   "WXT:xlm": {
     "coin": "WXT",
@@ -2762,7 +2762,7 @@
   "AR:ar": {
     "coin": "AR",
     "network": "AR",
-    "enabled": true
+    "enabled": false
   },
   "XVS:bsc": {
     "coin": "XVS",
@@ -8642,7 +8642,7 @@
   "BABY:babylon": {
     "coin": "BABY",
     "network": "BABY",
-    "enabled": false
+    "enabled": true
   },
   "PROMPT:bsc": {
     "coin": "PROMPT",
@@ -12437,7 +12437,7 @@
   "ZIL:zilliqa2": {
     "coin": "ZIL",
     "network": "Zilliqa 2",
-    "enabled": false
+    "enabled": true
   },
   "ZINC:eth": {
     "coin": "ZINC",
