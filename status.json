@@ -247,7 +247,7 @@
   "ZEC:zec": {
     "coin": "ZEC",
     "network": "ZEC",
-    "enabled": false
+    "enabled": true
   },
   "WXT:xlm": {
     "coin": "WXT",
@@ -2879,14 +2879,9 @@
     "network": "BEP20",
     "enabled": false
   },
-  "MTRG:bsc": {
+  "MTRG:base": {
     "coin": "MTRG",
-    "network": "BEP20",
-    "enabled": false
-  },
-  "MTRG:meter": {
-    "coin": "MTRG",
-    "network": "METER",
+    "network": "Base",
     "enabled": false
   },
   "QUICK:matic": {
@@ -3714,13 +3709,13 @@
     "network": "ERC20",
     "enabled": false
   },
-  "BNC:bncdot": {
-    "coin": "BNC",
+  "BNCOLD:bncdot": {
+    "coin": "BNCOLD",
     "network": "BNC",
     "enabled": false
   },
-  "BNC:bnc": {
-    "coin": "BNC",
+  "BNCOLD:bnc": {
+    "coin": "BNCOLD",
     "network": "BNC",
     "enabled": false
   },
@@ -4332,7 +4327,7 @@
   "CSPR:cspr": {
     "coin": "CSPR",
     "network": "Casper",
-    "enabled": false
+    "enabled": true
   },
   "FORT:eth": {
     "coin": "FORT",
