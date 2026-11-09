@@ -2707,7 +2707,7 @@
   "INJ:inj": {
     "coin": "INJ",
     "network": "INJ",
-    "enabled": true
+    "enabled": false
   },
   "NFTB:bsc": {
     "coin": "NFTB",
