@@ -2357,7 +2357,7 @@
   "HBAR:hbar": {
     "coin": "HBAR",
     "network": "HBAR",
-    "enabled": false
+    "enabled": true
   },
   "XPRT:xprt": {
     "coin": "XPRT",
