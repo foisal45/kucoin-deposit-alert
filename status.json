@@ -42,7 +42,7 @@
   "ANKR:eth": {
     "coin": "ANKR",
     "network": "ERC20",
-    "enabled": true
+    "enabled": false
   },
   "DX:eth": {
     "coin": "DX",
@@ -652,7 +652,7 @@
   "WAVES:waves": {
     "coin": "WAVES",
     "network": "WAVES",
-    "enabled": true
+    "enabled": false
   },
   "WAVES:eth": {
     "coin": "WAVES",
@@ -3717,7 +3717,7 @@
   "BNCOLD:bnc": {
     "coin": "BNCOLD",
     "network": "BNC",
-    "enabled": false
+    "enabled": true
   },
   "JAM:eth": {
     "coin": "JAM",
