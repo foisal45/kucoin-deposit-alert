@@ -2707,7 +2707,7 @@
   "INJ:inj": {
     "coin": "INJ",
     "network": "INJ",
-    "enabled": false
+    "enabled": true
   },
   "NFTB:bsc": {
     "coin": "NFTB",
@@ -10817,7 +10817,7 @@
   "AIR:bsc": {
     "coin": "AIR",
     "network": "BEP20",
-    "enabled": true
+    "enabled": false
   },
   "DOS:eth": {
     "coin": "DOS",
@@ -11037,6 +11037,11 @@
   "KOR:base": {
     "coin": "KOR",
     "network": "Base",
+    "enabled": true
+  },
+  "MTX:bsc": {
+    "coin": "MTX",
+    "network": "BEP20",
     "enabled": true
   },
   "VSYS:vsys": {
