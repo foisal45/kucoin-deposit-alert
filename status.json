@@ -2707,7 +2707,7 @@
   "INJ:inj": {
     "coin": "INJ",
     "network": "INJ",
-    "enabled": true
+    "enabled": false
   },
   "NFTB:bsc": {
     "coin": "NFTB",
@@ -7842,7 +7842,7 @@
   "HYPE:hyperevm": {
     "coin": "HYPE",
     "network": "HyperEvm",
-    "enabled": true
+    "enabled": false
   },
   "MOZ:arbitrum": {
     "coin": "MOZ",
