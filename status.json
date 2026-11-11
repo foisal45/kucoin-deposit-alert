@@ -2762,7 +2762,7 @@
   "AR:ar": {
     "coin": "AR",
     "network": "AR",
-    "enabled": false
+    "enabled": true
   },
   "XVS:bsc": {
     "coin": "XVS",
@@ -9507,7 +9507,7 @@
   "ARIA:bsc": {
     "coin": "ARIA",
     "network": "BEP20",
-    "enabled": false
+    "enabled": true
   },
   "BAS:bsc": {
     "coin": "BAS",
