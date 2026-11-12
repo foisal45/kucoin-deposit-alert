@@ -4617,7 +4617,7 @@
   "POKT:poktshannon": {
     "coin": "POKT",
     "network": "Pokt Shannon",
-    "enabled": true
+    "enabled": false
   },
   "EFI:eth": {
     "coin": "EFI",
@@ -8817,12 +8817,12 @@
   "SOON:sol": {
     "coin": "SOON",
     "network": "SOL",
-    "enabled": false
+    "enabled": true
   },
   "SOON:bsc": {
     "coin": "SOON",
     "network": "BEP20",
-    "enabled": false
+    "enabled": true
   },
   "AWE:base": {
     "coin": "AWE",
@@ -10157,7 +10157,7 @@
   "ADI:adi": {
     "coin": "ADI",
     "network": "ADI Network",
-    "enabled": true
+    "enabled": false
   },
   "ADI:eth": {
     "coin": "ADI",
