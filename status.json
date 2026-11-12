@@ -2507,7 +2507,7 @@
   "P2P:dvpn": {
     "coin": "P2P",
     "network": "DVPN",
-    "enabled": true
+    "enabled": false
   },
   "SKU:eth": {
     "coin": "SKU",
@@ -10157,7 +10157,7 @@
   "ADI:adi": {
     "coin": "ADI",
     "network": "ADI Network",
-    "enabled": false
+    "enabled": true
   },
   "ADI:eth": {
     "coin": "ADI",
