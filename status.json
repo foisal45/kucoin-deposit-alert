@@ -2707,7 +2707,7 @@
   "INJ:inj": {
     "coin": "INJ",
     "network": "INJ",
-    "enabled": false
+    "enabled": true
   },
   "NFTB:bsc": {
     "coin": "NFTB",
@@ -4732,7 +4732,7 @@
   "NAVI:eth": {
     "coin": "NAVI",
     "network": "ERC20",
-    "enabled": false
+    "enabled": true
   },
   "HIPENGUINS:eth": {
     "coin": "HIPENGUINS",
@@ -7842,7 +7842,7 @@
   "HYPE:hyperevm": {
     "coin": "HYPE",
     "network": "HyperEvm",
-    "enabled": false
+    "enabled": true
   },
   "MOZ:arbitrum": {
     "coin": "MOZ",
@@ -9837,7 +9837,7 @@
   "LYN:bsc": {
     "coin": "LYN",
     "network": "BEP20",
-    "enabled": true
+    "enabled": false
   },
   "KGEN:aptos": {
     "coin": "KGEN",
@@ -10182,7 +10182,7 @@
   "CYS:bsc": {
     "coin": "CYS",
     "network": "BEP20",
-    "enabled": false
+    "enabled": true
   },
   "ZIG:zigchain": {
     "coin": "ZIG",
