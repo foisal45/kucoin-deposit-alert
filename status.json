@@ -5067,7 +5067,7 @@
   "HMND:hmnd": {
     "coin": "HMND",
     "network": "HMND",
-    "enabled": false
+    "enabled": true
   },
   "HIFI:eth": {
     "coin": "HIFI",
@@ -7552,7 +7552,7 @@
   "PEAQ:peaq": {
     "coin": "PEAQ",
     "network": "Peaq",
-    "enabled": true
+    "enabled": false
   },
   "LUCE:sol": {
     "coin": "LUCE",
@@ -8292,7 +8292,7 @@
   "SLC:peaq": {
     "coin": "SLC",
     "network": "Peaq",
-    "enabled": true
+    "enabled": false
   },
   "DIGIMON:sol": {
     "coin": "DIGIMON",
