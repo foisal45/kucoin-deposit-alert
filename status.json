@@ -4787,7 +4787,7 @@
   "OSMO:osmo": {
     "coin": "OSMO",
     "network": "OSMO",
-    "enabled": true
+    "enabled": false
   },
   "FLR:flare": {
     "coin": "FLR",
