@@ -4617,7 +4617,7 @@
   "POKT:poktshannon": {
     "coin": "POKT",
     "network": "Pokt Shannon",
-    "enabled": false
+    "enabled": true
   },
   "EFI:eth": {
     "coin": "EFI",
@@ -6697,7 +6697,7 @@
   "AERO:base": {
     "coin": "AERO",
     "network": "Base",
-    "enabled": false
+    "enabled": true
   },
   "TRUF:eth": {
     "coin": "TRUF",
@@ -11043,6 +11043,11 @@
     "coin": "MTX",
     "network": "BEP20",
     "enabled": true
+  },
+  "GOOGLON:sol": {
+    "coin": "GOOGLON",
+    "network": "SOL",
+    "enabled": false
   },
   "VSYS:vsys": {
     "coin": "VSYS",
