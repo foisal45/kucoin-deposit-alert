@@ -3152,12 +3152,12 @@
   "KAVA:kava": {
     "coin": "KAVA",
     "network": "KAVA",
-    "enabled": true
+    "enabled": false
   },
   "KAVA:kavaevm": {
     "coin": "KAVA",
     "network": "KAVA EVM Co-Chain",
-    "enabled": true
+    "enabled": false
   },
   "LIKE:sol": {
     "coin": "LIKE",
