@@ -4652,7 +4652,7 @@
   "GRAM:ton2": {
     "coin": "GRAM",
     "network": "TON",
-    "enabled": false
+    "enabled": true
   },
   "HIMEEBITS:eth": {
     "coin": "HIMEEBITS",
@@ -6777,7 +6777,7 @@
   "MAPO:mapo": {
     "coin": "MAPO",
     "network": "Mapo",
-    "enabled": true
+    "enabled": false
   },
   "MERL:merlin": {
     "coin": "MERL",
@@ -6897,7 +6897,7 @@
   "NOT:ton2": {
     "coin": "NOT",
     "network": "TON",
-    "enabled": false
+    "enabled": true
   },
   "PIT:bsc": {
     "coin": "PIT",
@@ -7222,7 +7222,7 @@
   "DOGS:ton2": {
     "coin": "DOGS",
     "network": "TON",
-    "enabled": false
+    "enabled": true
   },
   "CAT:bsc": {
     "coin": "CAT",
@@ -7262,7 +7262,7 @@
   "CATI:ton2": {
     "coin": "CATI",
     "network": "TON",
-    "enabled": false
+    "enabled": true
   },
   "RMV:matic": {
     "coin": "RMV",
@@ -7347,7 +7347,7 @@
   "HMSTR:ton2": {
     "coin": "HMSTR",
     "network": "TON",
-    "enabled": false
+    "enabled": true
   },
   "LAY3R:bsc": {
     "coin": "LAY3R",
@@ -7647,7 +7647,7 @@
   "MAJOR:ton2": {
     "coin": "MAJOR",
     "network": "TON",
-    "enabled": false
+    "enabled": true
   },
   "RWA:base": {
     "coin": "RWA",
@@ -10622,7 +10622,7 @@
   "TAC:ton2": {
     "coin": "TAC",
     "network": "TON",
-    "enabled": false
+    "enabled": true
   },
   "METADAO:sol": {
     "coin": "METADAO",
@@ -12282,7 +12282,7 @@
   "USDT:ton2": {
     "coin": "USDT",
     "network": "TON",
-    "enabled": false
+    "enabled": true
   },
   "USDT:kcc": {
     "coin": "USDT",
