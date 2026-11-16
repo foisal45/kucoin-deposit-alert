@@ -9544,6 +9544,11 @@
     "network": "ERC20",
     "enabled": true
   },
+  "CAMP:camp": {
+    "coin": "CAMP",
+    "network": "Camp",
+    "enabled": false
+  },
   "MISSION:ton": {
     "coin": "MISSION",
     "network": "TON",
@@ -10242,7 +10247,7 @@
   "LIT:eth": {
     "coin": "LIT",
     "network": "ERC20",
-    "enabled": true
+    "enabled": false
   },
   "BTG:bsc": {
     "coin": "BTG",
