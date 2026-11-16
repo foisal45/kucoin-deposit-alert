@@ -2802,7 +2802,7 @@
   "CPOOL:eth": {
     "coin": "CPOOL",
     "network": "ERC20",
-    "enabled": true
+    "enabled": false
   },
   "LTO:lto": {
     "coin": "LTO",
@@ -3362,7 +3362,7 @@
   "XEC:xec": {
     "coin": "XEC",
     "network": "XEC",
-    "enabled": false
+    "enabled": true
   },
   "BONDLY:eth": {
     "coin": "BONDLY",
@@ -6777,7 +6777,7 @@
   "MAPO:mapo": {
     "coin": "MAPO",
     "network": "Mapo",
-    "enabled": false
+    "enabled": true
   },
   "MERL:merlin": {
     "coin": "MERL",
