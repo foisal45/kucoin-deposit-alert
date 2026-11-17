@@ -3352,7 +3352,7 @@
   "TRVL:eth": {
     "coin": "TRVL",
     "network": "ERC20",
-    "enabled": true
+    "enabled": false
   },
   "ARKER:bsc": {
     "coin": "ARKER",
