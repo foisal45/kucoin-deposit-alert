@@ -2367,7 +2367,7 @@
   "EGLD:egld": {
     "coin": "EGLD",
     "network": "EGLD",
-    "enabled": true
+    "enabled": false
   },
   "FLOW:flow": {
     "coin": "FLOW",
@@ -7002,7 +7002,7 @@
   "OORT:oort": {
     "coin": "OORT",
     "network": "OORT",
-    "enabled": false
+    "enabled": true
   },
   "ATH:eth": {
     "coin": "ATH",
@@ -11053,6 +11053,11 @@
     "coin": "GOOGLON",
     "network": "SOL",
     "enabled": false
+  },
+  "INFI:eth": {
+    "coin": "INFI",
+    "network": "ERC20",
+    "enabled": true
   },
   "VSYS:vsys": {
     "coin": "VSYS",
