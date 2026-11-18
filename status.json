@@ -2202,7 +2202,7 @@
   "XPR:xpr": {
     "coin": "XPR",
     "network": "XPR",
-    "enabled": false
+    "enabled": true
   },
   "TRIBE:eth": {
     "coin": "TRIBE",
@@ -5752,7 +5752,7 @@
   "LYX:lukso": {
     "coin": "LYX",
     "network": "LUKSO",
-    "enabled": true
+    "enabled": false
   },
   "DCK:bsc": {
     "coin": "DCK",
@@ -7002,7 +7002,7 @@
   "OORT:oort": {
     "coin": "OORT",
     "network": "OORT",
-    "enabled": true
+    "enabled": false
   },
   "ATH:eth": {
     "coin": "ATH",
