@@ -3152,12 +3152,12 @@
   "KAVA:kava": {
     "coin": "KAVA",
     "network": "KAVA",
-    "enabled": false
+    "enabled": true
   },
   "KAVA:kavaevm": {
     "coin": "KAVA",
     "network": "KAVA EVM Co-Chain",
-    "enabled": false
+    "enabled": true
   },
   "LIKE:sol": {
     "coin": "LIKE",
@@ -7002,7 +7002,7 @@
   "OORT:oort": {
     "coin": "OORT",
     "network": "OORT",
-    "enabled": false
+    "enabled": true
   },
   "ATH:eth": {
     "coin": "ATH",
@@ -11052,7 +11052,7 @@
   "GOOGLON:sol": {
     "coin": "GOOGLON",
     "network": "SOL",
-    "enabled": false
+    "enabled": true
   },
   "INFI:eth": {
     "coin": "INFI",
@@ -11062,22 +11062,22 @@
   "AAPLON:sol": {
     "coin": "AAPLON",
     "network": "SOL",
-    "enabled": false
+    "enabled": true
   },
   "MSFTON:sol": {
     "coin": "MSFTON",
     "network": "SOL",
-    "enabled": false
+    "enabled": true
   },
   "AMZNON:sol": {
     "coin": "AMZNON",
     "network": "SOL",
-    "enabled": false
+    "enabled": true
   },
   "NVDAON:sol": {
     "coin": "NVDAON",
     "network": "SOL",
-    "enabled": false
+    "enabled": true
   },
   "VSYS:vsys": {
     "coin": "VSYS",
