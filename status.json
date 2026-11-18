@@ -7002,7 +7002,7 @@
   "OORT:oort": {
     "coin": "OORT",
     "network": "OORT",
-    "enabled": true
+    "enabled": false
   },
   "ATH:eth": {
     "coin": "ATH",
@@ -11058,6 +11058,26 @@
     "coin": "INFI",
     "network": "ERC20",
     "enabled": true
+  },
+  "AAPLON:sol": {
+    "coin": "AAPLON",
+    "network": "SOL",
+    "enabled": false
+  },
+  "MSFTON:sol": {
+    "coin": "MSFTON",
+    "network": "SOL",
+    "enabled": false
+  },
+  "AMZNON:sol": {
+    "coin": "AMZNON",
+    "network": "SOL",
+    "enabled": false
+  },
+  "NVDAON:sol": {
+    "coin": "NVDAON",
+    "network": "SOL",
+    "enabled": false
   },
   "VSYS:vsys": {
     "coin": "VSYS",
