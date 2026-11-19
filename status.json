@@ -2357,7 +2357,7 @@
   "HBAR:hbar": {
     "coin": "HBAR",
     "network": "HBAR",
-    "enabled": true
+    "enabled": false
   },
   "XPRT:xprt": {
     "coin": "XPRT",
@@ -4647,12 +4647,12 @@
   "GRAM:ton": {
     "coin": "GRAM",
     "network": "TON",
-    "enabled": true
+    "enabled": false
   },
   "GRAM:ton2": {
     "coin": "GRAM",
     "network": "TON",
-    "enabled": true
+    "enabled": false
   },
   "HIMEEBITS:eth": {
     "coin": "HIMEEBITS",
@@ -6477,7 +6477,7 @@
   "DYM:dym": {
     "coin": "DYM",
     "network": "Dymension",
-    "enabled": true
+    "enabled": false
   },
   "NAVX:sui": {
     "coin": "NAVX",
@@ -6892,12 +6892,12 @@
   "NOT:ton": {
     "coin": "NOT",
     "network": "TON",
-    "enabled": true
+    "enabled": false
   },
   "NOT:ton2": {
     "coin": "NOT",
     "network": "TON",
-    "enabled": true
+    "enabled": false
   },
   "PIT:bsc": {
     "coin": "PIT",
@@ -7217,12 +7217,12 @@
   "DOGS:ton": {
     "coin": "DOGS",
     "network": "TON",
-    "enabled": true
+    "enabled": false
   },
   "DOGS:ton2": {
     "coin": "DOGS",
     "network": "TON",
-    "enabled": true
+    "enabled": false
   },
   "CAT:bsc": {
     "coin": "CAT",
@@ -7257,12 +7257,12 @@
   "CATI:ton": {
     "coin": "CATI",
     "network": "TON",
-    "enabled": true
+    "enabled": false
   },
   "CATI:ton2": {
     "coin": "CATI",
     "network": "TON",
-    "enabled": true
+    "enabled": false
   },
   "RMV:matic": {
     "coin": "RMV",
@@ -7342,12 +7342,12 @@
   "HMSTR:ton": {
     "coin": "HMSTR",
     "network": "TON",
-    "enabled": true
+    "enabled": false
   },
   "HMSTR:ton2": {
     "coin": "HMSTR",
     "network": "TON",
-    "enabled": true
+    "enabled": false
   },
   "LAY3R:bsc": {
     "coin": "LAY3R",
@@ -7642,12 +7642,12 @@
   "MAJOR:ton": {
     "coin": "MAJOR",
     "network": "TON",
-    "enabled": true
+    "enabled": false
   },
   "MAJOR:ton2": {
     "coin": "MAJOR",
     "network": "TON",
-    "enabled": true
+    "enabled": false
   },
   "RWA:base": {
     "coin": "RWA",
@@ -10622,12 +10622,12 @@
   "TAC:ton": {
     "coin": "TAC",
     "network": "TON",
-    "enabled": true
+    "enabled": false
   },
   "TAC:ton2": {
     "coin": "TAC",
     "network": "TON",
-    "enabled": true
+    "enabled": false
   },
   "METADAO:sol": {
     "coin": "METADAO",
@@ -12312,7 +12312,7 @@
   "USDT:ton2": {
     "coin": "USDT",
     "network": "TON",
-    "enabled": true
+    "enabled": false
   },
   "USDT:kcc": {
     "coin": "USDT",
@@ -12327,7 +12327,7 @@
   "USDT:ton": {
     "coin": "USDT",
     "network": "TON",
-    "enabled": true
+    "enabled": false
   },
   "USDT:bsc": {
     "coin": "USDT",
