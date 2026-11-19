@@ -192,7 +192,7 @@
   "XTZ:etherlink": {
     "coin": "XTZ",
     "network": "XTZ EVM",
-    "enabled": true
+    "enabled": false
   },
   "XTZ:xtz": {
     "coin": "XTZ",
@@ -9317,7 +9317,7 @@
   "XU3O8:etherlink": {
     "coin": "XU3O8",
     "network": "XTZ EVM",
-    "enabled": true
+    "enabled": false
   },
   "ASP:bsc": {
     "coin": "ASP",
