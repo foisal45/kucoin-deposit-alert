@@ -2357,7 +2357,7 @@
   "HBAR:hbar": {
     "coin": "HBAR",
     "network": "HBAR",
-    "enabled": false
+    "enabled": true
   },
   "XPRT:xprt": {
     "coin": "XPRT",
@@ -7002,7 +7002,7 @@
   "OORT:oort": {
     "coin": "OORT",
     "network": "OORT",
-    "enabled": false
+    "enabled": true
   },
   "ATH:eth": {
     "coin": "ATH",
@@ -11042,7 +11042,7 @@
   "KOR:base": {
     "coin": "KOR",
     "network": "Base",
-    "enabled": true
+    "enabled": false
   },
   "MTX:bsc": {
     "coin": "MTX",
