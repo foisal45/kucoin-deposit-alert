@@ -42,7 +42,7 @@
   "ANKR:eth": {
     "coin": "ANKR",
     "network": "ERC20",
-    "enabled": false
+    "enabled": true
   },
   "DX:eth": {
     "coin": "DX",
@@ -4802,7 +4802,7 @@
   "BDX:bdx": {
     "coin": "BDX",
     "network": "BDX",
-    "enabled": true
+    "enabled": false
   },
   "HIMFERS:eth": {
     "coin": "HIMFERS",
@@ -8317,7 +8317,7 @@
   "BERA:bera": {
     "coin": "BERA",
     "network": "Bera",
-    "enabled": true
+    "enabled": false
   },
   "SNAI:sol": {
     "coin": "SNAI",
@@ -10207,7 +10207,7 @@
   "IR:bera": {
     "coin": "IR",
     "network": "Bera",
-    "enabled": true
+    "enabled": false
   },
   "SCOR:base": {
     "coin": "SCOR",
@@ -10642,7 +10642,7 @@
   "SHARE:bsc": {
     "coin": "SHARE",
     "network": "BEP20",
-    "enabled": true
+    "enabled": false
   },
   "HPP:hpp": {
     "coin": "HPP",
@@ -11101,6 +11101,16 @@
   },
   "SPYON:sol": {
     "coin": "SPYON",
+    "network": "SOL",
+    "enabled": true
+  },
+  "CLEAR:eth": {
+    "coin": "CLEAR",
+    "network": "ERC20",
+    "enabled": true
+  },
+  "ANTX:sol": {
+    "coin": "ANTX",
     "network": "SOL",
     "enabled": true
   },
