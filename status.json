@@ -2497,7 +2497,7 @@
   "BAND:band": {
     "coin": "BAND",
     "network": "BAND",
-    "enabled": true
+    "enabled": false
   },
   "FTT:eth": {
     "coin": "FTT",
@@ -7002,7 +7002,7 @@
   "OORT:oort": {
     "coin": "OORT",
     "network": "OORT",
-    "enabled": true
+    "enabled": false
   },
   "ATH:eth": {
     "coin": "ATH",
@@ -10472,7 +10472,7 @@
   "MANTRA:mantra": {
     "coin": "MANTRA",
     "network": "Mantra",
-    "enabled": true
+    "enabled": false
   },
   "NEXI:eth": {
     "coin": "NEXI",
