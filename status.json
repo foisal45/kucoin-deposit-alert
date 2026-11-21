@@ -7002,7 +7002,7 @@
   "OORT:oort": {
     "coin": "OORT",
     "network": "OORT",
-    "enabled": false
+    "enabled": true
   },
   "ATH:eth": {
     "coin": "ATH",
