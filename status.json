@@ -2357,7 +2357,7 @@
   "HBAR:hbar": {
     "coin": "HBAR",
     "network": "HBAR",
-    "enabled": true
+    "enabled": false
   },
   "XPRT:xprt": {
     "coin": "XPRT",
@@ -6047,7 +6047,7 @@
   "FLIP:eth": {
     "coin": "FLIP",
     "network": "ERC20",
-    "enabled": true
+    "enabled": false
   },
   "BONK:sol": {
     "coin": "BONK",
@@ -7002,7 +7002,7 @@
   "OORT:oort": {
     "coin": "OORT",
     "network": "OORT",
-    "enabled": true
+    "enabled": false
   },
   "ATH:eth": {
     "coin": "ATH",
@@ -8317,7 +8317,7 @@
   "BERA:bera": {
     "coin": "BERA",
     "network": "Bera",
-    "enabled": false
+    "enabled": true
   },
   "SNAI:sol": {
     "coin": "SNAI",
@@ -10207,7 +10207,7 @@
   "IR:bera": {
     "coin": "IR",
     "network": "Bera",
-    "enabled": false
+    "enabled": true
   },
   "SCOR:base": {
     "coin": "SCOR",
@@ -10472,7 +10472,7 @@
   "MANTRA:mantra": {
     "coin": "MANTRA",
     "network": "Mantra",
-    "enabled": false
+    "enabled": true
   },
   "NEXI:eth": {
     "coin": "NEXI",
