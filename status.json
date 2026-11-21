@@ -5922,12 +5922,12 @@
   "CYBER:optimism": {
     "coin": "CYBER",
     "network": "OPTIMISM",
-    "enabled": true
+    "enabled": false
   },
   "CYBER:eth": {
     "coin": "CYBER",
     "network": "ERC20",
-    "enabled": true
+    "enabled": false
   },
   "MEME:eth": {
     "coin": "MEME",
