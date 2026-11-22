@@ -10172,7 +10172,7 @@
   "KYO:eth": {
     "coin": "KYO",
     "network": "ERC20",
-    "enabled": true
+    "enabled": false
   },
   "BBT:bsc": {
     "coin": "BBT",
@@ -10247,7 +10247,7 @@
   "LIT:eth": {
     "coin": "LIT",
     "network": "ERC20",
-    "enabled": false
+    "enabled": true
   },
   "BTG:bsc": {
     "coin": "BTG",
