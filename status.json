@@ -6332,7 +6332,7 @@
   "ACE:bsc": {
     "coin": "ACE",
     "network": "BEP20",
-    "enabled": true
+    "enabled": false
   },
   "APP:eth": {
     "coin": "APP",
