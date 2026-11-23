@@ -10812,7 +10812,7 @@
   "2U2:bsc": {
     "coin": "2U2",
     "network": "BEP20",
-    "enabled": false
+    "enabled": true
   },
   "PIPEDOG:robinhood": {
     "coin": "PIPEDOG",
