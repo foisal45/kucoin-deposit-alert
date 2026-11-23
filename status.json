@@ -2497,7 +2497,7 @@
   "BAND:band": {
     "coin": "BAND",
     "network": "BAND",
-    "enabled": false
+    "enabled": true
   },
   "FTT:eth": {
     "coin": "FTT",
