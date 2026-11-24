@@ -7002,7 +7002,7 @@
   "OORT:oort": {
     "coin": "OORT",
     "network": "OORT",
-    "enabled": false
+    "enabled": true
   },
   "ATH:eth": {
     "coin": "ATH",
@@ -8617,7 +8617,7 @@
   "TAI:sol": {
     "coin": "TAI",
     "network": "SOL",
-    "enabled": true
+    "enabled": false
   },
   "KERNEL:eth": {
     "coin": "KERNEL",
