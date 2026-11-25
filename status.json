@@ -10642,7 +10642,7 @@
   "SHARE:bsc": {
     "coin": "SHARE",
     "network": "BEP20",
-    "enabled": false
+    "enabled": true
   },
   "HPP:hpp": {
     "coin": "HPP",
@@ -11112,6 +11112,11 @@
   "ANTX:sol": {
     "coin": "ANTX",
     "network": "SOL",
+    "enabled": true
+  },
+  "VERITY:eth": {
+    "coin": "VERITY",
+    "network": "ERC20",
     "enabled": true
   },
   "VSYS:vsys": {
