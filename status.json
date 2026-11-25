@@ -2707,7 +2707,7 @@
   "INJ:inj": {
     "coin": "INJ",
     "network": "INJ",
-    "enabled": false
+    "enabled": true
   },
   "NFTB:bsc": {
     "coin": "NFTB",
@@ -5652,7 +5652,7 @@
   "SEI:seievm": {
     "coin": "SEI",
     "network": "Seievm",
-    "enabled": false
+    "enabled": true
   },
   "TOMI:eth": {
     "coin": "TOMI",
