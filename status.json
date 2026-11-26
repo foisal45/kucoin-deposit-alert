@@ -862,7 +862,7 @@
   "SHR:eth": {
     "coin": "SHR",
     "network": "ERC20",
-    "enabled": true
+    "enabled": false
   },
   "BCHA:bchabc": {
     "coin": "BCHA",
@@ -2357,7 +2357,7 @@
   "HBAR:hbar": {
     "coin": "HBAR",
     "network": "HBAR",
-    "enabled": true
+    "enabled": false
   },
   "XPRT:xprt": {
     "coin": "XPRT",
@@ -8637,7 +8637,7 @@
   "BABY:babylon": {
     "coin": "BABY",
     "network": "BABY",
-    "enabled": false
+    "enabled": true
   },
   "PROMPT:bsc": {
     "coin": "PROMPT",
@@ -10197,7 +10197,7 @@
   "UDS:eth": {
     "coin": "UDS",
     "network": "ERC20",
-    "enabled": true
+    "enabled": false
   },
   "THQ:base": {
     "coin": "THQ",
