@@ -27,7 +27,7 @@
   "XMR:xmr": {
     "coin": "XMR",
     "network": "XMR",
-    "enabled": true
+    "enabled": false
   },
   "RBTC:rbtc": {
     "coin": "RBTC",
@@ -8637,7 +8637,7 @@
   "BABY:babylon": {
     "coin": "BABY",
     "network": "BABY",
-    "enabled": true
+    "enabled": false
   },
   "PROMPT:bsc": {
     "coin": "PROMPT",
@@ -10979,9 +10979,19 @@
     "network": "ERC20",
     "enabled": true
   },
+  "EVAA:ton": {
+    "coin": "EVAA",
+    "network": "TON",
+    "enabled": true
+  },
   "EVAA:bsc": {
     "coin": "EVAA",
     "network": "BEP20",
+    "enabled": true
+  },
+  "EVAA:ton2": {
+    "coin": "EVAA",
+    "network": "TON",
     "enabled": true
   },
   "VAYLA:bsc": {
