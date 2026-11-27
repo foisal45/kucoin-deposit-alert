@@ -2357,7 +2357,7 @@
   "HBAR:hbar": {
     "coin": "HBAR",
     "network": "HBAR",
-    "enabled": false
+    "enabled": true
   },
   "XPRT:xprt": {
     "coin": "XPRT",
@@ -11128,6 +11128,16 @@
     "coin": "VERITY",
     "network": "ERC20",
     "enabled": true
+  },
+  "KNTQ:hyperevm": {
+    "coin": "KNTQ",
+    "network": "HyperEvm",
+    "enabled": true
+  },
+  "GAIB:eth": {
+    "coin": "GAIB",
+    "network": "ERC20",
+    "enabled": false
   },
   "VSYS:vsys": {
     "coin": "VSYS",
