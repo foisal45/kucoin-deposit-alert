@@ -4802,7 +4802,7 @@
   "BDX:bdx": {
     "coin": "BDX",
     "network": "BDX",
-    "enabled": false
+    "enabled": true
   },
   "HIMFERS:eth": {
     "coin": "HIMFERS",
@@ -10147,7 +10147,7 @@
   "STABLE:stable": {
     "coin": "STABLE",
     "network": "Stable",
-    "enabled": true
+    "enabled": false
   },
   "NIGHT:ada": {
     "coin": "NIGHT",
@@ -11137,7 +11137,7 @@
   "GAIB:eth": {
     "coin": "GAIB",
     "network": "ERC20",
-    "enabled": false
+    "enabled": true
   },
   "VSYS:vsys": {
     "coin": "VSYS",
@@ -12402,7 +12402,7 @@
   "USDT:stable": {
     "coin": "USDT",
     "network": "Stable",
-    "enabled": true
+    "enabled": false
   },
   "USDT:kavaevm": {
     "coin": "USDT",
@@ -12532,7 +12532,7 @@
   "ZIL:zilliqa2": {
     "coin": "ZIL",
     "network": "Zilliqa 2",
-    "enabled": true
+    "enabled": false
   },
   "ZINC:eth": {
     "coin": "ZINC",
